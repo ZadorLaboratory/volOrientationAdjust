@@ -16,7 +16,7 @@ Volume orientation adjustment
 ## Contents
     1. Script: volOrientationAdjust.m
     2. Example images: test image (test.tif); reference image (ref.tif)
-                Example images are from Allen brian atlas CCFv3, nissle images 
+                Example images are from Allen brian atlas CCFv3, nissl images 
                 Ref: Wang et al., 2020, https://doi.org/10.1016/j.cell.2020.04.007
 
 ## Example
